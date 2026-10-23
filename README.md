@@ -45,3 +45,12 @@ My goal is to build on my military and accounting experience while developing ne
 ## Resume
 
 For more information about my professional background, please see [RESUME.md](RESUME.md).
+
+## Engagement Index
+
+This section will contain links to my business projects and professional work as I complete them.
+
+| Capability | Project | Status |
+|---|---|---|
+| Business Analysis | Future engagement | Not started |
+
